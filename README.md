@@ -1,6 +1,6 @@
 # AutoGen練習プロジェクト
 
-このプロジェクトは、マルチエージェント構築ライブラリ[AutoGen](https://github.com/microsoft/autogen)の練習用プロジェクトです。
+このレポジトリは、マルチエージェント構築ライブラリ[AutoGen](https://github.com/microsoft/autogen)の練習用です。
 
 ## 概要
 
